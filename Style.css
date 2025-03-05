@@ -1,0 +1,13 @@
+.mau{
+  color: red;
+}
+#tud{
+  color: green;
+  font-style: italic;
+}
+#cntt{
+  color: blue;
+}
+body {
+  font-family: monospace;
+}
